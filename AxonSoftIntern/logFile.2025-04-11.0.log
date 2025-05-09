@@ -1,0 +1,272 @@
+2025-04-11 18:12:45,250 INFO o.e.Main [main] Reading file 1
+2025-04-11 18:12:45,253 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:12:45,264 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:12:45,273 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,276 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:12:45,279 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,280 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:12:45,281 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,282 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:12:45,282 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,283 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:12:45,284 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,285 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:12:45,285 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:12:45,287 INFO o.e.ApplicantsProcessor [main] Multiple days of applications received
+2025-04-11 18:12:45,289 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:12:45,291 INFO o.e.Main [main] Reading file 2
+2025-04-11 18:12:45,292 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:12:45,292 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:12:45,294 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,295 ERROR o.e.ApplicantsProcessor [main] Name field is invalid
+2025-04-11 18:12:45,295 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,296 ERROR o.e.ApplicantsProcessor [main] Text '2023-01-24 16:32:19' could not be parsed at index 10
+2025-04-11 18:12:45,296 ERROR o.e.ApplicantsProcessor [main] Date time field is invalid
+2025-04-11 18:12:45,297 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,297 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,297 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,298 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,298 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,299 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:12:45,300 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:12:45,300 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:12:45,301 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:12:45,301 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:43:14,015 INFO o.e.Main [main] Reading file 1
+2025-04-11 18:43:14,019 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:43:14,028 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:43:14,037 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,040 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:43:14,044 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,045 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:43:14,045 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,046 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:43:14,047 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,048 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:43:14,049 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,050 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:43:14,051 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:43:14,054 INFO o.e.ApplicantsProcessor [main] Multiple days of applications received
+2025-04-11 18:43:14,056 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:43:14,058 INFO o.e.Main [main] Reading file 2
+2025-04-11 18:43:14,059 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:43:14,059 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:43:14,061 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,061 ERROR o.e.ApplicantsProcessor [main] Name field is invalid
+2025-04-11 18:43:14,062 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,062 ERROR o.e.ApplicantsProcessor [main] Text '2023-01-24 16:32:19' could not be parsed at index 10
+2025-04-11 18:43:14,063 ERROR o.e.ApplicantsProcessor [main] Date time field is invalid
+2025-04-11 18:43:14,063 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,063 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,064 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,064 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,065 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,065 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:43:14,066 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:43:14,067 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:43:14,067 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:43:14,068 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:47:09,782 INFO o.e.Main [main] Reading file 1
+2025-04-11 18:47:09,787 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:47:09,794 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:47:09,802 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,804 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:47:09,809 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,810 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:47:09,810 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,811 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:47:09,812 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,812 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:47:09,814 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,815 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:47:09,816 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:47:09,820 INFO o.e.ApplicantsProcessor [main] Multiple days of applications received
+2025-04-11 18:47:09,821 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:47:09,824 INFO o.e.Main [main] Reading file 2
+2025-04-11 18:47:09,824 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:47:09,825 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:47:09,826 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,827 ERROR o.e.ApplicantsProcessor [main] Name field is invalid
+2025-04-11 18:47:09,828 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,829 ERROR o.e.ApplicantsProcessor [main] Text '2023-01-24 16:32:19' could not be parsed at index 10
+2025-04-11 18:47:09,830 ERROR o.e.ApplicantsProcessor [main] Date time field is invalid
+2025-04-11 18:47:09,830 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,830 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,831 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,831 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,831 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,831 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:47:09,833 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:47:09,833 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:47:09,835 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:47:09,835 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:48:29,564 INFO o.e.Main [main] Reading file 1
+2025-04-11 18:48:29,567 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:48:29,576 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:48:29,585 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,587 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:48:29,591 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,592 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:48:29,593 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,593 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:48:29,594 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,595 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:48:29,596 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,597 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:48:29,598 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:48:29,601 INFO o.e.ApplicantsProcessor [main] Multiple days of applications received
+2025-04-11 18:48:29,603 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:48:29,606 INFO o.e.Main [main] Reading file 2
+2025-04-11 18:48:29,606 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:48:29,607 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:48:29,608 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,610 ERROR o.e.ApplicantsProcessor [main] Name field is invalid
+2025-04-11 18:48:29,611 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,612 ERROR o.e.ApplicantsProcessor [main] Text '2023-01-24 16:32:19' could not be parsed at index 10
+2025-04-11 18:48:29,612 ERROR o.e.ApplicantsProcessor [main] Date time field is invalid
+2025-04-11 18:48:29,613 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,613 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,614 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,614 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,614 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,615 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:48:29,615 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:48:29,616 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:48:29,617 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:48:29,618 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:49:13,886 INFO o.e.Main [main] Reading file 1
+2025-04-11 18:49:13,889 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:49:13,896 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:49:13,903 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,906 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:49:13,908 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,910 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:49:13,910 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,911 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:49:13,911 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,912 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:49:13,913 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,913 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:49:13,914 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:49:13,916 INFO o.e.ApplicantsProcessor [main] Multiple days of applications received
+2025-04-11 18:49:13,917 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:49:13,919 INFO o.e.Main [main] Reading file 2
+2025-04-11 18:49:13,920 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:49:13,920 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:49:13,922 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,922 ERROR o.e.ApplicantsProcessor [main] Name field is invalid
+2025-04-11 18:49:13,923 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,924 ERROR o.e.ApplicantsProcessor [main] Text '2023-01-24 16:32:19' could not be parsed at index 10
+2025-04-11 18:49:13,924 ERROR o.e.ApplicantsProcessor [main] Date time field is invalid
+2025-04-11 18:49:13,925 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,925 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,925 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,926 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,926 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,927 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:49:13,927 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:49:13,928 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:49:13,929 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:49:13,930 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:55:37,196 INFO o.e.Main [main] Reading file 1
+2025-04-11 18:55:37,199 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:55:37,208 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:55:37,218 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,221 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:55:37,224 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,225 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:55:37,226 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,227 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:55:37,228 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,229 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:55:37,231 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,232 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:55:37,233 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:55:37,236 INFO o.e.ApplicantsProcessor [main] Multiple days of applications received
+2025-04-11 18:55:37,238 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:55:37,241 INFO o.e.Main [main] Reading file 2
+2025-04-11 18:55:37,241 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:55:37,242 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:55:37,244 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,246 ERROR o.e.ApplicantsProcessor [main] Name field is invalid
+2025-04-11 18:55:37,247 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,248 ERROR o.e.ApplicantsProcessor [main] Text '2023-01-24 16:32:19' could not be parsed at index 10
+2025-04-11 18:55:37,248 ERROR o.e.ApplicantsProcessor [main] Date time field is invalid
+2025-04-11 18:55:37,249 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,249 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,250 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,251 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,252 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,252 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:55:37,253 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:55:37,253 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:55:37,254 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:55:37,255 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:56:25,191 INFO o.e.Main [main] Reading file 1
+2025-04-11 18:56:25,193 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:56:25,200 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:56:25,206 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,209 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:56:25,211 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,212 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:56:25,213 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,213 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:56:25,214 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,215 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:56:25,216 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,217 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:56:25,218 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:56:25,220 INFO o.e.ApplicantsProcessor [main] Multiple days of applications received
+2025-04-11 18:56:25,223 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 18:56:25,224 INFO o.e.Main [main] Reading file 2
+2025-04-11 18:56:25,225 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 18:56:25,226 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 18:56:25,227 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,229 ERROR o.e.ApplicantsProcessor [main] Name field is invalid
+2025-04-11 18:56:25,229 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,230 ERROR o.e.ApplicantsProcessor [main] Text '2023-01-24 16:32:19' could not be parsed at index 10
+2025-04-11 18:56:25,230 ERROR o.e.ApplicantsProcessor [main] Date time field is invalid
+2025-04-11 18:56:25,230 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,231 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,231 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,231 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,232 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,233 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:56:25,233 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 18:56:25,234 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 18:56:25,234 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 18:56:25,236 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 20:08:58,745 INFO o.e.Main [main] Reading file 1
+2025-04-11 20:08:58,753 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 20:08:58,758 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 20:08:58,774 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,781 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 20:08:58,783 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,783 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 20:08:58,785 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,785 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 20:08:58,785 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,785 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 20:08:58,785 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,785 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 20:08:58,785 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 20:08:58,785 INFO o.e.ApplicantsProcessor [main] Multiple days of applications received
+2025-04-11 20:08:58,790 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
+2025-04-11 20:08:58,790 INFO o.e.Main [main] Reading file 2
+2025-04-11 20:08:58,790 INFO o.e.ApplicantsProcessor [main] ApplicantsProcessor has been started
+2025-04-11 20:08:58,793 INFO o.e.ApplicantsProcessor [main] Reading CSV file
+2025-04-11 20:08:58,793 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,793 ERROR o.e.ApplicantsProcessor [main] Name field is invalid
+2025-04-11 20:08:58,793 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,796 ERROR o.e.ApplicantsProcessor [main] Text '2023-01-24 16:32:19' could not be parsed at index 10
+2025-04-11 20:08:58,796 ERROR o.e.ApplicantsProcessor [main] Date time field is invalid
+2025-04-11 20:08:58,796 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,796 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,796 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,796 ERROR o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,796 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,796 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 20:08:58,796 INFO o.e.ApplicantsProcessor [main] Email field is invalid
+2025-04-11 20:08:58,796 INFO o.e.ApplicantsProcessor [main] Application built successfully
+2025-04-11 20:08:58,796 INFO o.e.ApplicantsProcessor [main] Applicants have been parsed
+2025-04-11 20:08:58,796 INFO o.e.ApplicantsProcessor [main] Applicants have been sorted.
